@@ -1,0 +1,2 @@
+# Fluidninjalive_NVIDIA_RTX_CAUSTICS_UE4.27.2
+All RTX features enabled. RTXGI RTXDI DLSS CAUSTICS 
